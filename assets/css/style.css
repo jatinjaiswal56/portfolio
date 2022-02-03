@@ -514,6 +514,10 @@ h3 {
   transition: 0.3s;
 }
 
+.services .service-item .service-item-inner p {
+  word-break: break-all;
+}
+
 .services .service-item .service-item-inner:hover {
   transform: translateY(-0.625rem);
 }
